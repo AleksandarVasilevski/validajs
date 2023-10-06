@@ -20,13 +20,13 @@ Valida-js is a lightweight and flexible validation library for JavaScript, desig
 To install the library, you can use npm:
 
 ```bash
-npm install valida-js
+npm install @aleksandarvasilevski/valida-js
 ```
 
 ## Usage
 
 ```javascript
-const { validate } = require('valida-js');
+const { validate } = require('@aleksandarvasilevski/valida-js');
 
 const validationData = {
   username: 'john',
