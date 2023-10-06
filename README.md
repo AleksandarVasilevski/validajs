@@ -1,10 +1,10 @@
-# Valida.js
+# Valida-js
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-Valida.js is a lightweight and flexible validation library for JavaScript, designed to validate various data types and structures.
+Valida-js is a lightweight and flexible validation library for JavaScript, designed to validate various data types and structures.
 
 ## Table of Contents
 
